@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Imhotep Benjamin</h1>
 <h3 align="center">Creative Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imhotepbenjamin" alt="imhotepbenjamin" /></a> </p>
-
 - 🔭 I’m currently working on **my ePortfolio and a productivity Chrome Extension**
 
 - 🌱 I’m currently learning **Javascript, SQL, APIs, and integrating AI models**
@@ -29,7 +27,5 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/imhotepbenjamin"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="imhotepbenjamin" /></a><a href="https://ko-fi.com/imhotepbenjamin"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="imhotepbenjamin" /></a></p><br><br>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imhotepbenjamin&show_icons=true&locale=en&layout=compact" alt="imhotepbenjamin" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imhotepbenjamin&show_icons=true&locale=en" alt="imhotepbenjamin" /></p>
