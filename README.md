@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Imhotep Benjamin</h1>
+<h1 align="center">Hi 👋🏾, I'm Imhotep Benjamin</h1>
 <h3 align="center">Creative Developer</h3>
 
 - 🔭 I’m currently working on **my ePortfolio and a productivity Chrome
