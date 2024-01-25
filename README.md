@@ -2,13 +2,16 @@
 <h3 align="center">Creative Developer</h3>
 
 - 🔭 I’m currently working on **my ePortfolio and a productivity Chrome
-Extension** - 🌱 I’m currently learning **Javascript, SQL, APIs, and integrating
-AI models** - 👯 I’m looking to collaborate on **productivity apps/extensions**
+Extension**
+- 🌱 I’m currently learning **Javascript, SQL, APIs, and integrating
+AI models**
+- 👯 I’m looking to collaborate on **productivity apps/extensions**
 - 🤝 I’m looking for help with **Javasript and integrating APIs & AI models into
-my Chrome extension** - 👨‍💻 All of my projects are available at
+my Chrome extension**
+- 👨‍💻 All of my projects are available at
 [https://imhotepbenjamin.github.io/eport/](https://imhotepbenjamin.github.io/eport/)
-- 💬 Ask me about **CSS, Javascript** - 📫 How to reach me
-**imhotepbenjamin@gmail.com**
+- 💬 Ask me about **CSS, Javascript**
+- - 📫 How to reach me **imhotepbenjamin@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
