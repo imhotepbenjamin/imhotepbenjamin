@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋🏾, I'm Imhotep Benjamin</h1>
 <h3 align="center">Creative Developer</h3>
-<h3 align="left"><a href="imhotepbenjamin.com" target="blank>Click to Visit My Website</a></h3>
+<h3 align="center"><a href="imhotepbenjamin.com" target="blank"> Click to Visit My Website</a></h3>
 
 - 🔭 I’m currently working on **my ePortfolio and a productivity Chrome
 Extension**
