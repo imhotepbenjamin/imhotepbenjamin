@@ -10,7 +10,7 @@ AI models**
 - 🤝 I’m looking for help with **Javasript and integrating APIs & AI models into
 my Chrome extension**
 - 👨‍💻 All of my projects are available at
-[https://imhotepbenjamin.github.io/eport/](https://imhotepbenjamin.github.io/eport/)
+[https://imhotepbenjamin.com](https://imhotepbenjamin.com)
 - 💬 Ask me about **CSS, Javascript**
 -  📫 How to reach me **imhotepbenjamin@gmail.com**
 
