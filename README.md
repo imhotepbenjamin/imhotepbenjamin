@@ -13,8 +13,8 @@
 
 <h3 align="left">Recent Achievements:</h3>
 <ul>
-  <li>🎓 Graduated from University of Maryland Global Campus with a degree in Web & Digital Design and a minor in Computer Science on 5/13/2024</li>
-  <li>🏆 Won first place at the Georgetown H2AI Hackathon and continuing the project on 4/14/2024</li>
+  <li>🎓 Graduated from the University of Maryland Global Campus with a degree in Web & Digital Design and a minor in Computer Science</li>
+  <li>🏆 Won first place at the Georgetown H2AI Hackathon and continuing the project</li>
 </ul>
 
 <h3 align="left">Connect with me:</h3>
