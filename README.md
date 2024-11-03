@@ -3,7 +3,7 @@
 <h3 align="center"><a href="https://imhotepbenjamin.com/" target="_blank"> Click to Visit My Website</a></h3>
 
 - 🎓 I have graduated from **University of Maryland Global Campus** with a degree in Web & Digital Design and a minor in Computer Science.
-- 🔭 I’m currently working on **my H2AI team's AI startup, Aster, an AI SaaS startup focused on decreasing healthcare professional burnout and errors through AI-powered precharting and ambient documentation**
+- 🔭 I’m currently working on **Aster AI, an AI SaaS startup focused on decreasing healthcare professional burnout and errors through AI-powered precharting and ambient documentation**
 - 🌱 I’m currently learning **Next.js, Django Python, Javascript, SQL, APIs, and integrating AI models**
 - 👯 I’m looking to collaborate on **productivity apps/extensions and mobile apps**
 - 🤝 I’m looking for help with **Next.js, TypeScript, and Django Python**
