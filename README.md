@@ -4,9 +4,7 @@
 
 - 🎓 I have graduated from **University of Maryland Global Campus** with a degree in Web & Digital Design and a minor in Computer Science.
 - 🔭 I’m currently working on **Aster AI, an AI SaaS startup focused on decreasing healthcare professional burnout and errors through AI-powered precharting and ambient documentation**
-- 🌱 I’m currently learning **Next.js, Django Python, Javascript, SQL, APIs, and integrating AI models**
-- 👯 I’m looking to collaborate on **productivity apps/extensions and mobile apps**
-- 🤝 I’m looking for help with **Next.js, TypeScript, and Django Python**
+- 🌱 I’m currently learning **React Native, Lynx, Typescript, MongoDB, and Go**
 - 👨‍💻 All of my projects are available at [https://imhotepbenjamin.com](https://imhotepbenjamin.com)
 - 💬 Ask me about **React, Javascript, CSS, frontend development in general**
 - 📫 How to reach me **imhotepbenjamin@gmail.com**
