@@ -2,18 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 <h3 align="center"><a href="https://imhotepbenjamin.com/" target="_blank"> Click to Visit My Website</a></h3>
 
-- 🎓 I have graduated from **University of Maryland Global Campus** with a degree in Web & Digital Design and a minor in Computer Science.
-- 🔭 I’m currently working on **Aster AI, an AI SaaS startup focused on decreasing healthcare professional burnout and errors through AI-powered precharting and ambient documentation**
-- 🌱 I’m currently learning **React Native, Lynx, Typescript, MongoDB, and Go**
-- 👨‍💻 All of my projects are available at [https://imhotepbenjamin.com](https://imhotepbenjamin.com)
-- 💬 Ask me about **React, Javascript, CSS, frontend development in general**
 - 📫 How to reach me **imhotepbenjamin@gmail.com**
-
-<h3 align="left">Recent Achievements:</h3>
-<ul>
-  <li>🎓 Graduated from the University of Maryland Global Campus with a degree in Web & Digital Design and a minor in Computer Science</li>
-  <li>🏆 Won first place at the Georgetown H2AI Hackathon and continuing the project</li>
-</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
